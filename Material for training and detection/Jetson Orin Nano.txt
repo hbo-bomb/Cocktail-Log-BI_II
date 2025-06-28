@@ -1,0 +1,3 @@
+----Instructions for configuring the NVIDIA Jetson Orin Nano----
+
+https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit
