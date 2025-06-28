@@ -1,0 +1,8 @@
+[2025-06-07 12:46:49.048817] Detected: Captain-Morgan
+[2025-06-07 12:46:55.093258] Detected: Skyy
+[2025-06-07 12:46:58.132597] Detected: Skyy
+[2025-06-07 12:47:01.215778] Detected: Skyy
+[2025-06-07 12:48:49.550299] Detected: Skyy
+[2025-06-07 12:48:52.798832] Detected: Skyy
+[2025-06-07 12:48:55.912647] Detected: Skyy
+[2025-06-07 12:48:55.912647] BOTTLE USED: Skyy

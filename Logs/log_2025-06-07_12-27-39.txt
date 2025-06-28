@@ -1,0 +1,4 @@
+[2025-06-07 12:28:12.749119] Detected: Johnie-Walker
+[2025-06-07 12:28:43.416409] Detected: Johnie-Walker
+[2025-06-07 12:28:46.654758] Detected: Johnie-Walker
+[2025-06-07 12:29:00.652150] Detected: Johnie-Walker

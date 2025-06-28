@@ -1,0 +1,4 @@
+[2025-06-18 15:07:28.555166] Detected: Captain-Morgan
+[2025-06-18 15:07:38.483253] Detected: Captain-Morgan
+[2025-06-18 15:07:45.021903] Detected: Captain-Morgan
+[2025-06-18 15:07:48.055065] Detected: Captain-Morgan

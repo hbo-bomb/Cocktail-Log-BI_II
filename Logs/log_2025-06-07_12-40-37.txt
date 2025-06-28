@@ -1,0 +1,4 @@
+[2025-06-07 12:41:00.090162] Detected: Captain-Morgan
+[2025-06-07 12:41:42.379356] Detected: Smirnoff
+[2025-06-07 12:41:45.492798] Detected: Smirnoff
+[2025-06-07 12:42:55.889495] Detected: Smirnoff

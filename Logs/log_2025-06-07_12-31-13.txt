@@ -1,0 +1,10 @@
+[2025-06-07 12:31:27.855684] Detected: Johnie-Walker
+[2025-06-07 12:31:36.349087] Detected: Johnie-Walker
+[2025-06-07 12:31:39.440571] Detected: Johnie-Walker
+[2025-06-07 12:31:44.922877] Detected: Johnie-Walker
+[2025-06-07 12:31:47.966684] Detected: Johnie-Walker
+[2025-06-07 12:32:01.769764] Detected: Johnie-Walker
+[2025-06-07 12:32:01.770552] BOTTLE USED: Johnie-Walker
+[2025-06-07 12:32:06.400144] Detected: Johnie-Walker
+[2025-06-07 12:32:09.585970] Detected: Johnie-Walker
+[2025-06-07 12:32:32.477129] Detected: Johnie-Walker
