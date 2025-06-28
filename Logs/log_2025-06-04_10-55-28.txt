@@ -1,0 +1,10 @@
+[2025-06-04 10:55:44.246083] Detected: Johnie-Walker
+[2025-06-04 10:55:47.627257] Detected: Johnie-Walker
+[2025-06-04 10:55:50.616206] Detected: Johnie-Walker
+[2025-06-04 10:55:53.638833] Detected: Johnie-Walker
+[2025-06-04 10:55:56.652471] Detected: Johnie-Walker
+[2025-06-04 10:55:59.817451] Detected: Johnie-Walker
+[2025-06-04 10:55:59.817451] BOTTLE USED: Johnie-Walker
+[2025-06-04 10:56:13.853953] Detected: Jagermeister
+[2025-06-04 10:56:18.594853] Detected: Jagermeister
+[2025-06-04 10:56:21.390820] COCKTAIL: Jägerbomb

@@ -1,0 +1,7 @@
+[2025-06-04 10:57:43.023439] Detected: Johnie-Walker
+[2025-06-04 10:57:46.653094] Detected: Johnie-Walker
+[2025-06-04 10:57:50.415064] Detected: Johnie-Walker
+[2025-06-04 10:57:53.993513] Detected: Johnie-Walker
+[2025-06-04 10:58:05.582725] Detected: Jagermeister
+[2025-06-04 10:58:11.246436] Detected: Jagermeister
+[2025-06-04 10:58:13.248743] COCKTAIL: Jägerbomb
