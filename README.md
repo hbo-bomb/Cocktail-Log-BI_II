@@ -12,4 +12,5 @@ It includes instructions and materials for replicating the system´s experiment:
  - Source Code (Software)
  - Logs (Detection results)
 
+To see the word and pdf files select raw and they would be available for download.
 
