@@ -1,0 +1,10 @@
+=== COCKTAIL SESSION SUMMARY ===
+
+Total Sessions Started: 1
+Total Sessions Ended: 1
+
+Cocktails Made:
+  Johnnie Ginger: 1
+
+Bottles Used:
+  Johnie-Walker: 1
